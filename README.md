@@ -10,8 +10,8 @@ The code consists of two versions, i.e. sequential and parallel. The sequential 
 
 ## Please cite the paper:
 [Sadegh Nobari](http://bit.ly/NOB-GS), Xuesong Lu, Panagiotis Karras, and Stéphane Bressan,
-["Fast Random Graph Generation"](http://portal.acm.org/citation.cfm?id=1951406),
-Proc. of the 14th Intl Conf. on Extending Database Technology (EDBT'11), Uppsala, Sweden
+["Fast Random Graph Generation"](http://bit.ly/FERDOS),
+Proceedings of the 14th Intl Conf. on Extending Database Technology (EDBT'11), Uppsala, Sweden
 ### BibTeX record
 @inproceedings{Nobari:2011,
   author    = {Sadegh Nobari and
@@ -28,7 +28,7 @@ Proc. of the 14th Intl Conf. on Extending Database Technology (EDBT'11), Uppsala
 }
  
 ## Furthur reading
-[Full paper](http://portal.acm.org/citation.cfm?id=1951406)
+[Full paper](http://bit.ly/FERDOS)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93R%C3%A9nyi_model)
 
